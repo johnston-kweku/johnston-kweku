@@ -8,13 +8,13 @@ I'm a 19-year-old developer and programming instructor from Assin Foso, Ghana, o
 
 ## 🚀 Current Projects
 
-**[SyntaxAndStories (SAS)](link-to-project)** — An African-first social blogging platform  
+**[SyntaxAndStories (SAS)](syntaxandstories.dev)** — An African-first social blogging platform  
 Real-time chat, community-driven coin economy, and African storytelling at its core.
 
-**[EduTrack](link-to-project)** — School Management System  
+**[EduTrack]** — School Management System  
 Automated fee tracking, role-based access control, and streamlined academic workflows.
 
-**[Pharmacy Management System](link-to-project)** — Re-architected for Scale  
+**[Pharmacy Management System]** — Re-architected for Scale  
 Built with RBAC, system design best practices, and production-grade reliability.
 
 ---
