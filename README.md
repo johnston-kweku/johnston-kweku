@@ -55,7 +55,8 @@ Since then, I've focused on mastering system design, writing robust integration 
   <img src="https://github-readme-stats.vercel.app/api?username=johnston-kweku&show_icons=true&theme=tokyonight" alt="Jay's GitHub Stats" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnston-kweku&theme=tokyonight" alt="Jay's Streak" height="180" />
 </p>
-https://ghcommits.com/api/badge/johnston-kweku.svg
+
+[![GitHub Commits Badge](https://ghcommits.com/api/badge/johnston-kweku.svg)](https://ghcommits.com/u/johnston-kweku)
 
 ---
 
