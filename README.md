@@ -69,4 +69,4 @@ Since then, I've focused on mastering system design, writing robust integration 
 
 ## 🌐 Let's Connect!
 * 💼 [LinkedIn](https://www.linkedin.com/in/johnston-kweku-abubakar-03b9b4317/) — Professional updates & system design insights
-* 📱 [TikTok](https://www.tiktok.com/@mr.junior_dev) — Tech humor & code walk-throughs
+* 📱 [TikTok](https://www.tiktok.com/@johnstonkweku) — Tech humor & code walk-throughs
